@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SamX</h1>
-<h3 align="center">A passionate esports graphics designer</h3>
+<h3 align="center">A Passionate Esports Graphics Designer.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://twitter.com/samx_tw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samx_tw" height="30" width="40" /></a>
 <a href="https://www.facebook.com/samx.estore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/samx.fb" height="30" width="40" /></a>
@@ -11,5 +11,5 @@
 <a href="https://www.samxestore.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.samxestore.com" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/samx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="samx" /></a></p><br><br>
