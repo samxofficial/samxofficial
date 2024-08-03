@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SamX</h1>
-<h3 align="center">A Passionate Esports Graphics Designer.</h3>
+<h3 align="center">Visual Artist ・ Digital Creator</h3>
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
