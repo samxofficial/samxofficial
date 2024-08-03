@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SamX</h1>
-<h3 align="center">A passionate graphics designer from Bangladesh</h3>
+<h3 align="center">A passionate esports graphics designer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
