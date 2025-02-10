@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam.</h1>
-<h3 align="center">a cup of Espresso shot ☕🧋🍑</h3>
-<h3 align="center">🔥・Creative Director</h3>
-<h3 align="center">🥃・In a Spectrum</h3>
+<h3 align="center">a cup of Espresso shot 🍸</h3>
+<h3 align="center">✨・Creative Director</h3>
+<h3 align="center">🍺・In a Spectrum</h3>
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
