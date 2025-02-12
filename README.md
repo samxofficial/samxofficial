@@ -11,13 +11,13 @@
 
 - Owner, Founder [Stellar Network](https://stellarnetwork.digital)
 
-- 👨‍💻 Verified Portfolio [https://www.behance.net/samx_be](https://www.behance.net/samx_be)
+- 👨‍💻 Verified Portfolio [Portfolio](https://www.behance.net/samx_be)
 
-- ✅ Verified Soicals [https://samx.network](https://samx.network)
+- ✅ Verified Soicals [SamX Official](https://samx.network)
 
 - 📫 Reach Me **workforsamx@gmail.com**
 
-- ⚡ Discord Community [discord.gg/cosmichub](discord.gg/cosmichub)
+- ⚡ Discord Community [Discord]([discord.gg/cosmichub](https://discord.com/invite/7sxJg8nBJr))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
