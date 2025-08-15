@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/samx_tw" target="blank"><img src="https://img.shields.io/twitter/follow/samx_tw?logo=twitter&style=for-the-badge" alt="samx_tw" /></a> </p>
 
-- CEO, Founder [SamX Estore](https://samxestore.com)
+- Founder [SamX Estore](https://samxestore.com)
 
-- CEO, Founder [Shinju Creatives](https://shinjucreatives.com)
+- Creative Director [Shinju Creatives](https://shinjucreatives.com)
 
-- CEO, Founder [Cosmic Network](https://cosmichub.net)
+- Owner [Cosmic Network](https://cosmichub.net)
 
 - 👨‍💻 Verified Portfolio [Portfolio](https://www.behance.net/samx_be)
 
