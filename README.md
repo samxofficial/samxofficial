@@ -9,8 +9,6 @@
 
 - CEO, Founder [Shinju Creatives](https://shinjucreatives.com)
 
-- CEO, Founder [Stellar Network](https://stellarnetwork.digital)
-
 - CEO, Founder [Cosmic Network](https://cosmichub.net)
 
 - 👨‍💻 Verified Portfolio [Portfolio](https://www.behance.net/samx_be)
