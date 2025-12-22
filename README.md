@@ -17,7 +17,7 @@
 
 - 📫 Reach Me **workforsamx@gmail.com**
 
-- ⚡ Discord Community [Server](https://discord.com/invite/7sxJg8nBJr)
+- ⚡ Discord Community [Server](https://discord.gg/wSrjS46vV5)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
