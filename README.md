@@ -7,17 +7,13 @@
 
 - Founder [SamX Estore](https://samxestore.com)
 
-- Creative Director [Shinju Creatives](https://shinjucreatives.com)
-
-- Owner [Cosmic Network](https://cosmichub.net)
-
 - 👨‍💻 Verified Portfolio [Portfolio](https://www.behance.net/samx_be)
 
 - ✅ Verified Soicals [SamX Official](https://samx.bio.link)
 
 - 📫 Reach Me **workforsamx@gmail.com**
 
-- ⚡ Discord Community [Server](https://discord.gg/wSrjS46vV5)
+- ⚡ Discord Community [Server](https://discord.gg/7sxJg8nBJr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
