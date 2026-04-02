@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam.</h1>
-<h3 align="center">Creative Director - Entrepreneur</h3>
+<h3 align="center">Creative Director - Visual Artist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samxofficial&label=Profile%20views&color=0e75b6&style=flat" alt="samxofficial" /> </p>
 
@@ -11,7 +11,7 @@
 
 - ✅ Verified Soicals [SamX Official](https://samx.bio.link)
 
-- 📫 Reach Me **workforsamx@gmail.com**
+- 📫 Reach Me **samxofficial.work@gmail.com**
 
 - ⚡ Discord Community [Server](https://discord.gg/7sxJg8nBJr)
 
