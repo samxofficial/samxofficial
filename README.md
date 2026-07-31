@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sam.</h1>
+<h1 align="center">Hey 👋, This is Sam.</h1>
 <h3 align="center">Creative Director - Visual Artist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samxofficial&label=Profile%20views&color=0e75b6&style=flat" alt="samxofficial" /> </p>
 
 <p align="left"> <a href="https://twitter.com/samx_tw" target="blank"><img src="https://img.shields.io/twitter/follow/samx_tw?logo=twitter&style=for-the-badge" alt="samx_tw" /></a> </p>
 
-- Founder [SamX Estore](https://samxestore.com)
+- Founder [SamX Studio®](https://studio.samxhq.com)
 
 - 👨‍💻 Verified Portfolio [Portfolio](https://www.behance.net/samx_be)
 
